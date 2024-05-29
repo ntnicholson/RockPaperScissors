@@ -1,4 +1,4 @@
-//https://www.hackingwithswift.com/100/swiftui/25
+Source: https://www.hackingwithswift.com/100/swiftui/25
 
 "Challenge
 You have a basic understanding of arrays, state, views, images, text, and more, so let’s put them together: your challenge is to make a brain training game that challenges players to win or lose at rock, paper, scissors.
